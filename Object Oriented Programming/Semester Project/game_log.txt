@@ -1,0 +1,28 @@
+Board status:
+      
+      
+      
+Board status:
+  X   
+      
+      
+Board status:
+  X   
+      
+    O 
+Board status:
+  X   
+  X   
+    O 
+Board status:
+  X   
+  X   
+  O O 
+Board status:
+  X   
+  X   
+  O O 
+Board status:
+  X   
+  X   
+O O O 

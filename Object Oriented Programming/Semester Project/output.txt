@@ -1,0 +1,5 @@
+Board status:
+      
+      
+      
+Player 1's turn. Enter row and column (0-2): 

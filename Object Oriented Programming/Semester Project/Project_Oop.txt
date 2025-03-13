@@ -1,0 +1,32 @@
+MS Word Document::
+Title of Project..
+Submitted by.. submitted to..
+->Introduction of project
+->vision and scope
+->Designing of the project(clas Diagram)
+->Implementation
+->Screeen shots of code
+->output screen shots
+->concepts of oop used in projects
+
+
+Format:
+->style: Times new Roman
+->size: text:12 heading:14,bold,black
+->Paragraph:Justify
+->Linespace 1.5
+->Pageno: Bottom left
+
+
+
+MS PowerPoint:: (Add Date & Date Automatically)
+slide:1 -> Project Title
+slide:2 -> Contents
+slide:3 -> Introduction
+slide:4 -> Vision and scope
+slide:5 -> Objectives
+slide:6 -> Implememtation tools
+slide:7 -> Output SS
+slide:8 -> Q/A
+slide:9 -> Thanks
+
