@@ -34,7 +34,6 @@ class Stack {
         }
 
 
-
         bool isEmpty() {
             return head == NULL;
         }

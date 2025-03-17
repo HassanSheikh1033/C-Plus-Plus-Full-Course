@@ -27,9 +27,6 @@ int main(){
    
    Arr_sum(arr);
    
-   
-   
- 		
- 		return 0;
+   	return 0;
 }
 

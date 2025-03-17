@@ -20,9 +20,11 @@ void conquer(int arr[], int si, int mid, int ei) {
     while (idx1 <= mid) {
         merged[x++] = arr[idx1++];
     }
+    
     while (idx2 <= ei) {
         merged[x++] = arr[idx2++];
     }
+
     for (int i = 0, j = si; i < (ei - si + 1); i++, j++) {
         arr[j] = merged[i];
     }
